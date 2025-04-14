@@ -517,3 +517,10 @@ span {
         margin-top: 2rem;
     }
 }
+
+@media (max-width: 350px) {
+    .home-img img,
+    .about img {
+        width: 50vh;
+    }
+    }
