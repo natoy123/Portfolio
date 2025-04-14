@@ -530,3 +530,9 @@ span {
             width: 30vh;
         }
         }
+ @media (max-width: 200px) {
+        .home-img img,
+        .about img {
+            width: 23vh;
+        }
+        }
